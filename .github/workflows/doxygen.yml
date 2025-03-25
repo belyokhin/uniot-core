@@ -24,7 +24,7 @@ jobs:
           sudo apt-get install -y doxygen graphviz
 
       - name: Fetch doxygen-awesome-css assets
-        run: git clone https://github.com/jothepro/doxygen-awesome-css.git .
+        run: git clone https://github.com/jothepro/doxygen-awesome-css.git doxygen-theme
 
       # Step 3: Generate Documentation
       - name: Run Doxygen
