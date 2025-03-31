@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="dc/db9/classuniot_1_1_register.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="classuniot_1_1_register.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="143,-30 0,-30 0,0 143,0 143,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::Register&lt; Pair</text>
 <text text-anchor="middle" x="71.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; uint32_t, RecordPtr &gt; &gt;</text>
@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:href="d7/d3b/classuniot_1_1_object_register.html" target="_top" xlink:title=" ">
+<g id="a_Node000001"><a xlink:href="classuniot_1_1_object_register.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="298,-24.5 179,-24.5 179,-5.5 298,-5.5 298,-24.5"/>
 <text text-anchor="middle" x="238.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::ObjectRegister</text>
 </a>

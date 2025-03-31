@@ -11,8 +11,8 @@ var dir_a7e9f68611f01b5eb6ddd8cd40b75845 =
     [ "Scheduler", "dir_7701f59d9393e5ddc689932b0e266d1c.html", "dir_7701f59d9393e5ddc689932b0e266d1c" ],
     [ "Storage", "dir_53788d271d5e379cf5a6be5d6c342eea.html", "dir_53788d271d5e379cf5a6be5d6c342eea" ],
     [ "Utils", "dir_dd066fa2eddb65de909f14ca2875dae8.html", "dir_dd066fa2eddb65de909f14ca2875dae8" ],
-    [ "Common.h", "db/d1f/_common_8h.html", "db/d1f/_common_8h" ],
-    [ "Credentials.h", "df/d86/_credentials_8h.html", null ],
-    [ "Logger.h", "d6/dec/_logger_8h.html", "d6/dec/_logger_8h" ],
-    [ "Patches.h", "d5/de0/_patches_8h.html", null ]
+    [ "Common.h", "_common_8h.html", "_common_8h" ],
+    [ "Credentials.h", "_credentials_8h.html", null ],
+    [ "Logger.h", "_logger_8h.html", "_logger_8h" ],
+    [ "Patches.h", "_patches_8h.html", null ]
 ];

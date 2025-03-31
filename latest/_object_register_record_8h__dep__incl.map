@@ -1,0 +1,27 @@
+<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Register/ObjectRegisterRecord.h" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Register/ObjectRegisterRecord.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,5,382,60"/>
+<area shape="rect" id="Node000002" href="$_button_8h.html" title=" " alt="" coords="67,416,249,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,73,229,109,203,196,184,283,164,416,158,415,179,282,198,194,223,107,239,71"/>
+<area shape="rect" id="Node000006" href="$_object_register_8h.html" title=" " alt="" coords="239,108,429,163"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="292,70,318,106,313,109,288,73"/>
+<area shape="rect" id="Node000003" href="$_lisp_primitives_8h.html" title=" " alt="" coords="142,519,334,573"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,480,219,517,215,520,185,483"/>
+<area shape="rect" id="Node000005" href="$_network_controller_8h.html" title=" " alt="" coords="5,621,220,676"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="144,484,133,519,122,573,117,621,112,621,117,573,127,518,139,483"/>
+<area shape="rect" id="Node000004" href="$_app_kit_8h.html" title=" " alt="" coords="191,724,383,779"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,586,283,723,278,724,245,587"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="171,680,243,721,240,726,169,685"/>
+<area shape="rect" id="Node000007" href="$_register_manager_8h.html" title=" " alt="" coords="243,211,449,265"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="341,176,346,210,340,211,336,177"/>
+<area shape="rect" id="Node000008" href="$_register_manager_proxy_8h.html" title=" " alt="" coords="254,313,497,368"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="360,278,370,312,365,314,355,279"/>
+<area shape="rect" id="Node000009" href="$_primitive_expeditor_8h.html" title=" " alt="" coords="274,416,517,471"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="386,381,393,415,387,416,381,382"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="344,480,281,521,278,516,341,476"/>
+<area shape="rect" id="Node000010" href="$un_lisp_8h.html" title=" " alt="" coords="359,519,541,573"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="419,482,438,517,433,520,414,484"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="389,583,364,601,343,623,326,648,313,675,296,725,291,723,308,673,321,645,339,620,361,597,386,579"/>
+<area shape="rect" id="Node000011" href="$_lisp_device_8h.html" title=" " alt="" coords="353,621,545,676"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="452,587,452,621,446,621,447,587"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="397,685,331,726,328,722,394,681"/>
+</map>

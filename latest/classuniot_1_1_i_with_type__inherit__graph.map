@@ -1,0 +1,27 @@
+<map id="uniot::IWithType" name="uniot::IWithType">
+<area shape="rect" id="Node000001" title="Interface for objects that expose their runtime type information." alt="" coords="5,189,132,214"/>
+<area shape="rect" id="Node000002" href="$classuniot_1_1_event_entity.html" title="Entity that can connect to and interact with EventBus instances." alt="" coords="207,142,357,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,187,206,178,207,183,146,193"/>
+<area shape="rect" id="Node000012" href="$classuniot_1_1_object_register_record.html" title=" " alt="" coords="180,221,384,246"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="146,210,198,218,197,223,145,215"/>
+<area shape="rect" id="Node000003" href="$classuniot_1_1_event_emitter.html" title=" " alt="" coords="432,142,583,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,167,432,167,432,172,371,172"/>
+<area shape="rect" id="Node000004" href="$classuniot_1_1_date.html" title=" " alt="" coords="648,85,816,125"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,141,660,123,662,128,597,147"/>
+<area shape="rect" id="Node000005" href="$classuniot_1_1_event_listener.html" title=" " alt="" coords="631,149,833,189"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="597,167,630,167,630,172,597,172"/>
+<area shape="rect" id="Node000011" href="$classuniot_1_1_network_scheduler.html" title=" " alt="" coords="631,213,833,253"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="597,192,662,211,660,216,596,197"/>
+<area shape="rect" id="Node000006" href="$classuniot_1_1_callback_event_listener.html" title=" " alt="" coords="881,5,1089,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="825,140,832,135,848,116,855,96,862,76,880,55,899,43,902,48,883,59,867,78,860,98,852,119,835,139,828,144"/>
+<area shape="rect" id="Node000007" href="$classuniot_1_1_lisp_device.html" title=" " alt="" coords="913,70,1058,125"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="815,143,912,115,913,120,817,148"/>
+<area shape="rect" id="Node000008" href="$classuniot_1_1_m_q_t_t_kit.html" title=" " alt="" coords="889,149,1082,189"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="847,167,888,167,888,172,847,172"/>
+<area shape="rect" id="Node000009" href="$classuniot_1_1_network_controller.html" title=" " alt="" coords="884,213,1087,253"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="826,190,906,211,905,216,824,195"/>
+<area shape="rect" id="Node000010" href="$classuniot_1_1un_lisp.html" title=" " alt="" coords="896,277,1075,317"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="826,193,835,199,851,216,860,232,868,248,883,263,903,275,901,279,880,267,863,251,855,235,847,219,832,203,823,198"/>
+<area shape="rect" id="Node000013" href="$classuniot_1_1_button.html" title=" " alt="" coords="454,221,561,246"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="398,231,454,231,454,236,398,236"/>
+</map>

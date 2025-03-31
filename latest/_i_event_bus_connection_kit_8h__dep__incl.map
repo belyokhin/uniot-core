@@ -1,0 +1,31 @@
+<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/EventBus/IEventBusConnectionKit.h" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/EventBus/IEventBusConnectionKit.h">
+<area shape="rect" id="Node000001" title="Defines the interface for components that can connect to an EventBus." alt="" coords="336,5,595,60"/>
+<area shape="rect" id="Node000002" href="$_app_kit_8h.html" title=" " alt="" coords="146,416,338,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,50,241,69,155,101,115,122,77,147,43,177,15,212,9,228,9,250,19,301,35,346,44,366,66,386,91,401,146,423,144,428,89,406,63,390,40,370,30,348,14,303,3,250,4,227,10,209,39,174,74,143,112,117,153,96,239,64,322,45"/>
+<area shape="rect" id="Node000003" href="$_event_bus_8h.html" title=" " alt="" coords="374,108,557,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="460,74,460,108,455,108,454,74"/>
+<area shape="poly" id="edge8_Node000003_Node000001" title=" " alt="" coords="472,95,471,60,476,60,477,94"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="361,142,267,149,170,162,87,182,56,196,36,212,26,226,21,240,22,268,35,296,58,324,88,350,121,374,188,413,186,418,118,379,84,354,54,328,30,299,17,269,16,239,22,224,32,209,53,192,85,177,169,156,267,144,360,137"/>
+<area shape="rect" id="Node000004" href="$_event_bus_8cpp.html" title=" " alt="" coords="46,211,229,265"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="368,169,224,213,222,208,366,164"/>
+<area shape="rect" id="Node000005" href="$_event_emitter_8cpp.html" title=" " alt="" coords="254,211,456,265"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="429,174,386,213,382,209,425,170"/>
+<area shape="rect" id="Node000006" href="$_event_entity_8cpp.html" title=" " alt="" coords="481,211,672,265"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="507,170,549,209,546,213,503,174"/>
+<area shape="rect" id="Node000007" href="$_event_listener_8cpp.html" title=" " alt="" coords="696,211,902,265"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="566,164,713,208,711,213,565,169"/>
+<area shape="rect" id="Node000008" href="$_network_scheduler_8h.html" title=" " alt="" coords="926,211,1141,265"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="571,150,916,208,926,210,925,215,915,213,570,155"/>
+<area shape="rect" id="Node000012" href="$_uniot_8h.html" title=" " alt="" coords="1166,211,1350,265"/>
+<area shape="poly" id="edge15_Node000003_Node000012" title=" " alt="" coords="571,141,837,164,996,184,1154,208,1166,210,1165,216,1153,213,995,189,836,170,571,146"/>
+<area shape="rect" id="Node000009" href="$_m_q_t_t_kit_8h.html" title=" " alt="" coords="617,313,808,368"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="938,272,797,316,795,311,936,267"/>
+<area shape="rect" id="Node000011" href="$_network_controller_8h.html" title=" " alt="" coords="373,313,588,368"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="913,268,757,292,605,316,588,319,587,314,604,311,757,287,912,263"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="604,370,600,371,338,425,337,420,599,365,603,364"/>
+<area shape="rect" id="Node000010" href="$_m_q_t_t_device_8cpp.html" title=" " alt="" coords="596,416,829,471"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="715,382,715,416,710,416,710,382"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="407,376,305,418,303,413,405,371"/>
+<area shape="rect" id="Node000013" href="$_uniot_8cpp.html" title=" " alt="" coords="1166,313,1350,368"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="1260,279,1260,313,1255,313,1255,279"/>
+</map>

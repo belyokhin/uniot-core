@@ -1,9 +1,7 @@
 // version-dropdown.js
 document.addEventListener("DOMContentLoaded", function() {
   // Find the element with id 'projectnumber'
-  console.log('start version-dropdown.js');
   var targetElem = document.getElementById("projectnumber");
-  console.log('targetElem', targetElem);
   if (!targetElem) return;
 
   // Create a dropdown (select element)
@@ -72,21 +70,24 @@ document.addEventListener("DOMContentLoaded", function() {
       select.addEventListener("change", function() {
         var selectedVersion = this.value;
         // Construct the URL for the selected version's documentation
-        var newUrl = "/" + (selectedVersion === "latest" ? "latest" : selectedVersion) + "/index.html";
+        // var newUrl = "/" + (selectedVersion === "latest" ? "latest" : selectedVersion) + "/index.html";
+        const getNewUrl = (selectedVersion) => `/${selectedVersion}/index.html`;
 
         // Check if the target documentation exists by sending a HEAD request
-        fetch(newUrl, { method: "HEAD" })
+        fetch(getNewUrl(selectedVersion), { method: "HEAD" })
           .then((response) => {
             if (response.ok) {
-              window.location.href = newUrl;
+              window.location.href = getNewUrl(selectedVersion);
             } else {
               alert("Documentation for version " + selectedVersion + " is not available.");
               this.value = "latest";
+              window.location.href = getNewUrl(this.value);
             }
           })
           .catch((error) => {
             alert("Documentation for version " + selectedVersion + " is not available.");
             this.value = "latest";
+            window.location.href = getNewUrl(this.value);
           });
       });
     })

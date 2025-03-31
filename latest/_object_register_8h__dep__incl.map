@@ -1,0 +1,19 @@
+<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Register/ObjectRegister.h" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Register/ObjectRegister.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,263,60"/>
+<area shape="rect" id="Node000002" href="$_register_manager_8h.html" title=" " alt="" coords="65,108,271,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,74,171,108,165,108,165,74"/>
+<area shape="rect" id="Node000003" href="$_register_manager_proxy_8h.html" title=" " alt="" coords="47,211,289,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,176,171,211,165,211,165,176"/>
+<area shape="rect" id="Node000004" href="$_primitive_expeditor_8h.html" title=" " alt="" coords="47,313,289,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,279,171,313,165,313,165,279"/>
+<area shape="rect" id="Node000005" href="$_lisp_primitives_8h.html" title=" " alt="" coords="5,519,197,573"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,381,133,417,118,471,108,519,103,518,112,470,128,415,144,379"/>
+<area shape="rect" id="Node000007" href="$un_lisp_8h.html" title=" " alt="" coords="143,416,326,471"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="195,378,219,414,215,417,191,381"/>
+<area shape="rect" id="Node000006" href="$_app_kit_8h.html" title=" " alt="" coords="139,621,331,676"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="149,579,201,619,198,623,145,584"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="237,485,237,621,232,621,232,485"/>
+<area shape="rect" id="Node000008" href="$_lisp_device_8h.html" title=" " alt="" coords="272,519,464,573"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="282,477,335,516,331,521,279,481"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="324,584,271,623,268,619,321,579"/>
+</map>

@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="d1/d74/structuniot_1_1_app_kit_1_1_network_controller_config.html" target="_top" xlink:title="Configuration parameters for NetworkController.">
+<g id="a_Node000000"><a xlink:href="structuniot_1_1_app_kit_1_1_network_controller_config.html" target="_top" xlink:title="Configuration parameters for NetworkController.">
 <polygon fill="white" stroke="#666666" points="175,-30 0,-30 0,0 175,0 175,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::AppKit::NetworkController</text>
 <text text-anchor="middle" x="87.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Config</text>
