@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$db/dfd/class_clear_queue.html" title=" " alt="" coords="5,445,141,470"/>
+<area shape="rect" id="Node000001" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="225,5,400,75"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="73,431,78,363,95,271,110,222,130,173,155,126,187,85,204,70,224,59,226,64,208,75,191,89,160,129,134,175,115,223,101,272,84,364,78,431"/>
+<area shape="rect" id="Node000002" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="230,99,395,139"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="74,431,82,373,101,297,116,256,135,217,158,181,188,149,207,135,229,126,231,131,210,140,191,153,163,184,139,220,120,258,106,298,87,374,79,432"/>
+<area shape="rect" id="Node000004" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="209,163,417,232"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="80,430,94,389,116,339,147,287,188,242,207,228,210,232,191,246,152,291,121,342,99,391,85,432"/>
+<area shape="rect" id="Node000005" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="189,257,436,311"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="88,431,128,376,156,347,188,322,211,309,213,314,191,326,160,351,133,380,92,434"/>
+<area shape="rect" id="Node000006" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="219,336,406,405"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="121,437,218,402,220,407,123,442"/>
+<area shape="rect" id="Node000007" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="231,430,394,485"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="156,455,231,455,231,460,156,460"/>
+<area shape="rect" id="Node000008" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="221,509,404,534"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="123,472,190,493,243,506,242,511,189,499,121,477"/>
+<area shape="rect" id="Node000009" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="215,558,411,613"/>
+<area shape="poly" id="edge9_Node000000_Node000009" title=" " alt="" coords="100,477,141,511,191,543,218,555,216,560,188,548,138,515,97,482"/>
+<area shape="rect" id="Node000010" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="193,637,433,691"/>
+<area shape="poly" id="edge10_Node000000_Node000010" title=" " alt="" coords="88,481,127,551,156,589,191,622,211,634,208,639,188,626,152,593,123,554,83,484"/>
+<area shape="rect" id="Node000011" href="$d4/d1a/class_iterable_queue.html" title=" " alt="" coords="237,715,389,741"/>
+<area shape="poly" id="edge11_Node000000_Node000011" title=" " alt="" coords="82,483,93,531,114,590,146,650,166,677,191,701,213,713,237,721,235,726,210,718,188,705,162,681,141,653,109,592,88,532,76,484"/>
+<area shape="rect" id="Node000018" href="$da/d92/class_limited_queue.html" title=" " alt="" coords="237,765,388,790"/>
+<area shape="poly" id="edge18_Node000000_Node000018" title=" " alt="" coords="79,484,88,540,107,613,121,650,140,687,163,721,191,750,213,763,238,771,236,776,211,768,188,754,159,724,135,690,116,653,101,614,83,541,74,484"/>
+<area shape="rect" id="Node000003" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="521,99,670,139"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="409,116,521,116,521,121,409,121"/>
+<area shape="rect" id="Node000012" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="510,487,681,542"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="401,719,419,711,434,701,449,684,456,666,459,630,461,592,468,572,482,553,508,534,511,538,486,557,473,575,466,593,464,630,461,668,453,686,438,705,421,716,403,724"/>
+<area shape="rect" id="Node000013" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="513,567,678,636"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="401,714,435,700,450,688,458,675,467,661,482,646,511,629,514,633,486,650,471,664,463,678,454,692,437,705,403,719"/>
+<area shape="rect" id="Node000014" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="484,661,707,715"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="402,713,483,701,484,706,402,718"/>
+<area shape="rect" id="Node000015" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="484,739,707,794"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="402,738,484,749,483,754,402,743"/>
+<area shape="rect" id="Node000016" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="513,818,678,873"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="403,736,437,750,453,763,463,776,471,790,486,803,514,819,511,823,482,807,467,793,458,779,450,766,435,754,401,741"/>
+<area shape="rect" id="Node000017" href="$df/d85/classuniot_1_1_map.html" title=" " alt="" coords="484,897,707,951"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="403,732,421,739,438,750,452,766,460,783,464,816,467,850,474,866,486,882,501,895,498,899,482,886,469,869,462,851,459,817,455,784,448,769,434,754,419,744,401,736"/>
+</map>

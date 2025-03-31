@@ -1,0 +1,29 @@
+<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/CBORWrapper/COSE.h" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/CBORWrapper/COSE.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,5,282,60"/>
+<area shape="rect" id="Node000002" href="$dd/ded/_c_o_s_e_message_8h.html" title=" " alt="" coords="5,211,232,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,73,146,109,131,162,124,211,118,210,126,161,142,107,161,70"/>
+<area shape="rect" id="Node000006" href="$dc/dff/_i_c_o_s_e_signer_8h.html" title=" " alt="" coords="156,108,369,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,70,246,106,242,109,215,73"/>
+<area shape="rect" id="Node000003" href="$dc/d26/_m_q_t_t_kit_8h.html" title=" " alt="" coords="91,416,282,471"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,278,80,299,72,322,69,345,76,367,97,393,125,414,122,418,93,397,71,369,64,345,67,321,75,297,87,275"/>
+<area shape="rect" id="Node000004" href="$dc/d7b/_app_kit_8h.html" title=" " alt="" coords="323,519,515,573"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,474,359,516,357,521,258,478"/>
+<area shape="rect" id="Node000005" href="$da/d02/_m_q_t_t_device_8cpp.html" title=" " alt="" coords="65,519,298,573"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,485,185,519,180,518,182,484"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="215,173,158,213,155,208,212,168"/>
+<area shape="rect" id="Node000007" href="$df/d86/_credentials_8h.html" title=" " alt="" coords="291,211,474,265"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="306,169,353,209,350,213,303,174"/>
+<area shape="rect" id="Node000008" href="$d3/dd0/_m_q_t_t_path_8h.html" title=" " alt="" coords="86,313,287,368"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="321,274,239,316,237,311,318,269"/>
+<area shape="rect" id="Node000009" href="$da/dc0/_network_scheduler_8h.html" title=" " alt="" coords="311,313,526,368"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="399,277,412,312,407,314,394,279"/>
+<area shape="rect" id="Node000011" href="$d4/d2b/_uniot_8h.html" title=" " alt="" coords="551,313,735,368"/>
+<area shape="poly" id="edge14_Node000007_Node000011" title=" " alt="" coords="464,268,576,311,574,316,462,273"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="189,382,189,416,184,416,184,382"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="347,376,248,418,246,413,345,371"/>
+<area shape="rect" id="Node000010" href="$d9/d89/_network_controller_8h.html" title=" " alt="" coords="311,416,526,471"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="421,382,421,416,416,416,416,382"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="421,484,421,519,416,519,416,484"/>
+<area shape="rect" id="Node000012" href="$d9/d1c/_uniot_8cpp.html" title=" " alt="" coords="551,416,735,471"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="645,382,645,416,640,416,640,382"/>
+</map>
