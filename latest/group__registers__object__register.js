@@ -8,5 +8,5 @@ var group__registers__object__register =
       [ "link", "classuniot_1_1_object_register.html#a25061bc3cf1d45206602b2f6eab88f76", null ],
       [ "operator=", "classuniot_1_1_object_register.html#a5b3d37591199fae4e680b5bcb36f6aff", null ]
     ] ],
-    [ "uniot::RecordPtr", "group__registers__object__register.html#gab6d47f16345c6f44229445d810df735a", null ]
+    [ "uniot::RecordPtr", "group__registers__object__register.html#gaf895a0d329e916dcc178e8459d867d82", null ]
 ];

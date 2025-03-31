@@ -18,5 +18,5 @@ var group__event__bus__main =
       [ "unregisterKit", "classuniot_1_1_event_bus.html#a1e34be637ad405fb15daf450528411ba", null ],
       [ "EventEntity< T_topic, T_msg, T_data >", "classuniot_1_1_event_bus.html#a75e5e6f1a332558f746ccdc2f462e747", null ]
     ] ],
-    [ "uniot::CoreEventBus", "group__event__bus__main.html#ga08e2cb71e2657d60a6f29446f11326b3", null ]
+    [ "uniot::CoreEventBus", "group__event__bus__main.html#gad5a0f4eac43c42b31e12e9cfb0e8d267", null ]
 ];

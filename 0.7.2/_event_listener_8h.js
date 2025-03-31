@@ -1,4 +1,4 @@
 var _event_listener_8h =
 [
-    [ "CoreEventListener", "_event_listener_8h.html#gaff2fb5d3ff7577d0dacc73b99f5d2c89", null ]
+    [ "uniot::CoreEventListener", "group__event__bus__listener.html#gae565007773ef0a91cfba77f3b8f50b93", null ]
 ];

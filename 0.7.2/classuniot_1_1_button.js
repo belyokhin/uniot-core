@@ -1,6 +1,6 @@
 var classuniot_1_1_button =
 [
-    [ "ButtonCallback", "classuniot_1_1_button.html#a54fe4b0aa202166f39ae61d87efc92bf", null ],
+    [ "ButtonCallback", "classuniot_1_1_button.html#a0a649271b1a16926629107895e2a267b", null ],
     [ "Event", "classuniot_1_1_button.html#a88f43f50c228519dacbea181d4d2d24c", [
       [ "CLICK", "classuniot_1_1_button.html#a88f43f50c228519dacbea181d4d2d24caa9bcf7684be4b652e69b9ea9e767f5a4", null ],
       [ "LONG_PRESS", "classuniot_1_1_button.html#a88f43f50c228519dacbea181d4d2d24ca2b3dd5634a2871984bde25dcb15a4702", null ]

@@ -1,4 +1,4 @@
 var _callback_event_listener_8h =
 [
-    [ "CoreCallbackEventListener", "_callback_event_listener_8h.html#ga5100d99afc7855aea67438ed4aa133d6", null ]
+    [ "uniot::CoreCallbackEventListener", "group__event__bus__callback__listener.html#ga596807178346fe7bd2b651bd9421c872", null ]
 ];

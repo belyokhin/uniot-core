@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['emitevent_0',['emitevent',['../classuniot_1_1_event_bus.html#a651d5bfd61f06976cda2ed80a81e392f',1,'uniot::EventBus::emitEvent()'],['../classuniot_1_1_event_emitter.html#a2009bd4d3955bf7e38d74b5d8a150999',1,'uniot::EventEmitter::emitEvent()']]],
+  ['emitevent_0',['emitEvent',['../classuniot_1_1_event_bus.html#a651d5bfd61f06976cda2ed80a81e392f',1,'uniot::EventBus::emitEvent()'],['../classuniot_1_1_event_emitter.html#a2009bd4d3955bf7e38d74b5d8a150999',1,'uniot::EventEmitter::emitEvent()']]],
   ['esp32task_1',['ESP32Task',['../classuniot_1_1_e_s_p32_task.html#ace260d882afb47e714894ac0f3a094ae',1,'uniot::ESP32Task']]],
   ['esp8266task_2',['ESP8266Task',['../classuniot_1_1_e_s_p8266_task.html#a052afdad80e83f5a6fe43172dbdad916',1,'uniot::ESP8266Task']]],
   ['evallist_3',['evalList',['../classuniot_1_1_primitive_expeditor.html#ab9cb98c58f7567c825e849e83f31ea78',1,'uniot::PrimitiveExpeditor']]],
