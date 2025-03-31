@@ -1,4 +1,3 @@
-// version-dropdown.js
 document.addEventListener("DOMContentLoaded", function() {
   // Find the element with id 'projectnumber'
   var targetElem = document.getElementById("projectnumber");
@@ -70,8 +69,7 @@ document.addEventListener("DOMContentLoaded", function() {
       select.addEventListener("change", function() {
         var selectedVersion = this.value;
         // Construct the URL for the selected version's documentation
-        // var newUrl = "/" + (selectedVersion === "latest" ? "latest" : selectedVersion) + "/index.html";
-        const getNewUrl = (selectedVersion) => `/${selectedVersion}/index.html`;
+        const getNewUrl = (selectedVersion) => `/uniot-core/${selectedVersion}/index.html`;
 
         // Check if the target documentation exists by sending a HEAD request
         fetch(getNewUrl(selectedVersion), { method: "HEAD" })

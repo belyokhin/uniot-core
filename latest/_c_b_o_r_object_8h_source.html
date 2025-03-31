@@ -215,7 +215,7 @@ $(document).ready(function(){initNavTree('_c_b_o_r_object_8h_source.html',''); i
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>  <span class="keyword">class </span><a class="code hl_class" href="classuniot_1_1_c_b_o_r_object_1_1_array.html">Array</a>;</div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
 <div class="foldopen" id="foldopen00051" data-start="{" data-end="}">
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a0fce4805196564faca192f97182bffba">   51</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a0fce4805196564faca192f97182bffba">CBORObject</a>(<span class="keyword">const</span> <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object.html">CBORObject</a> &amp;) : mDirty(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">false</a>) {</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a0fce4805196564faca192f97182bffba">   51</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a0fce4805196564faca192f97182bffba">CBORObject</a>(<span class="keyword">const</span> <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object.html">CBORObject</a> &amp;) : mDirty(false) {</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    _create();</div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <a class="code hl_define" href="group__logger.html#ga6aa8da997113dabcea141812ad53df9e">UNIOT_LOG_WARN</a>(<span class="stringliteral">&quot;Copy constructor is not implemented!&quot;</span>);</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>  }</div>
@@ -229,11 +229,11 @@ $(document).ready(function(){initNavTree('_c_b_o_r_object_8h_source.html',''); i
 </div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
 <div class="foldopen" id="foldopen00071" data-start="{" data-end="}">
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a44d11a9d540197974dd1a1a89de3e926">   71</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a44d11a9d540197974dd1a1a89de3e926">CBORObject</a>(<a class="code hl_class" href="class_bytes.html">Bytes</a> <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">buf</a>)</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>      : mpParentObject(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">nullptr</a>),</div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        mpMapNode(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">nullptr</a>),</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        mDirty(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">false</a>) {</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    mErr.err = <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">CN_CBOR_NO_ERROR</a>;</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a44d11a9d540197974dd1a1a89de3e926">   71</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a44d11a9d540197974dd1a1a89de3e926">CBORObject</a>(<a class="code hl_class" href="class_bytes.html">Bytes</a> buf)</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>      : mpParentObject(nullptr),</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        mpMapNode(nullptr),</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        mDirty(false) {</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    mErr.err = CN_CBOR_NO_ERROR;</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    mErr.pos = 0;</div>
 <div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span> </div>
 <div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="comment">// NOTE: In C++, when a constructor of a derived class is executing, the object is not yet of the derived class type;</span></div>
@@ -241,12 +241,12 @@ $(document).ready(function(){initNavTree('_c_b_o_r_object_8h_source.html',''); i
 <div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>    <span class="comment">// This means that virtual functions do not behave polymorphically within constructors (and destructors).</span></div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>    <span class="comment">// If `read` is overridden in a class derived from `CBORObject`,</span></div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>    <span class="comment">// that overridden version will not be called in the `CBORObject` constructor.</span></div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a717bbc9fd28c9462885162010ab58e05">read</a>(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">buf</a>);</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a717bbc9fd28c9462885162010ab58e05">read</a>(buf);</div>
 <div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>  }</div>
 </div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
 <div class="foldopen" id="foldopen00090" data-start="{" data-end="}">
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a59f38be6ffd3ea2e445e46470ef421c5">   90</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a59f38be6ffd3ea2e445e46470ef421c5">CBORObject</a>() : mDirty(<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">false</a>) {</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a59f38be6ffd3ea2e445e46470ef421c5">   90</a></span>  <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a59f38be6ffd3ea2e445e46470ef421c5">CBORObject</a>() : mDirty(false) {</div>
 <div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>    _create();</div>
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>  }</div>
 </div>
@@ -258,18 +258,18 @@ $(document).ready(function(){initNavTree('_c_b_o_r_object_8h_source.html',''); i
 </div>
 <div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span> </div>
 <div class="foldopen" id="foldopen00106" data-start="{" data-end="}">
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#ab901a380e50a8443489f2c96402941db">  106</a></span>  <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">cn_cbor_errback</a> <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#ab901a380e50a8443489f2c96402941db">getLastError</a>() {</div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#ab901a380e50a8443489f2c96402941db">  106</a></span>  cn_cbor_errback <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#ab901a380e50a8443489f2c96402941db">getLastError</a>() {</div>
 <div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    <span class="keywordflow">return</span> mErr;</div>
 <div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>  }</div>
 </div>
 <div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span> </div>
 <div class="foldopen" id="foldopen00117" data-start="{" data-end="}">
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a338c8171f65e6c033391e48d5b2623e4">  117</a></span>  <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object_1_1_array.html">Array</a> <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a338c8171f65e6c033391e48d5b2623e4">putArray</a>(<span class="keywordtype">int</span> <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">key</a>) {</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>    <span class="keyword">auto</span> <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">existing</a> = <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">cn_cbor_mapget_int</a>(mpMapNode, <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">key</a>);</div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">existing</a> &amp;&amp; <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">existing</a>-&gt;type == <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">CN_CBOR_ARRAY</a>) {</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>      <span class="keywordflow">return</span> <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object_1_1_array.html">Array</a>(<span class="keyword">this</span>, <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">existing</a>);</div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno"><a class="line" href="classuniot_1_1_c_b_o_r_object.html#a338c8171f65e6c033391e48d5b2623e4">  117</a></span>  <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object_1_1_array.html">Array</a> <a class="code hl_function" href="classuniot_1_1_c_b_o_r_object.html#a338c8171f65e6c033391e48d5b2623e4">putArray</a>(<span class="keywordtype">int</span> key) {</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>    <span class="keyword">auto</span> existing = cn_cbor_mapget_int(mpMapNode, key);</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>    <span class="keywordflow">if</span> (existing &amp;&amp; existing-&gt;type == CN_CBOR_ARRAY) {</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>      <span class="keywordflow">return</span> <a class="code hl_class" href="classuniot_1_1_c_b_o_r_object_1_1_array.html">Array</a>(<span class="keyword">this</span>, existing);</div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>      <span class="keyword">auto</span> <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">newArray</a> = <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">cn_cbor_array_create</a>(_errback());</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>      <span class="keyword">auto</span> newArray = cn_cbor_array_create(_errback());</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>      <span class="keywordflow">if</span> (<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">newArray</a>) {</div>
 <div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">cn_cbor_mapput_int</a>(mpMapNode, <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">key</a>, <a class="code hl_function" href="group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8">newArray</a>, _errback())) {</div>
 <div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>          _markAsDirty(<span class="keyword">true</span>);</div>
