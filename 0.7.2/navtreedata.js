@@ -69,9 +69,9 @@ var NAVTREEINDEX =
 [
 "_app_kit_8h.html",
 "classuniot_1_1_button.html#a5ae0a48ac94bb321b1e56f09b3b6309a",
-"classuniot_1_1_lisp.html#a0a3fcaea8b9b1e43218884d3305175b4a678d71bac3b0a24d623c9fe0f2d3f68e",
-"classuniot_1_1un_lisp.html#a67b5af46512899f78b141c96ad0cdd25af0ffa28bb026be46c4b5831059d8cd2d",
-"namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4a8e7711ebdf8bcca2ffcdff787b7d4b22"
+"classuniot_1_1_lisp_device.html",
+"classuniot_1_1un_lisp.html#a8faac58293acb02f8df8aa1cfd2ae6f2",
+"namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4aea4b829ac8d6a876c159bf88dccf9a63"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
