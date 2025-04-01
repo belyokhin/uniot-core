@@ -1,5 +1,7 @@
 html {
     --primary-color: #4c68fc;
+    --primary-dark-color: #4c68fc;
+    --primary-light-color: #4c68fc;
 }
 
 html.dark-mode {
