@@ -39,10 +39,10 @@
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="classuniot_1_1_event_emitter.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="112,-151 1,-151 1,-110 112,-110 112,-151"/>
-<text text-anchor="start" x="9" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::EventEmitter</text>
-<text text-anchor="start" x="9" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; unsigned int, int,</text>
-<text text-anchor="middle" x="56.5" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00"> Bytes &gt;</text>
+<polygon fill="white" stroke="#666666" points="113,-151 0,-151 0,-110 113,-110 113,-151"/>
+<text text-anchor="start" x="8" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::EventEmitter</text>
+<text text-anchor="start" x="8" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T_topic, T_msg, T</text>
+<text text-anchor="middle" x="56.5" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">_data &gt;</text>
 </a>
 </g>
 </g>

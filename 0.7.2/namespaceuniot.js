@@ -1,9 +1,9 @@
 var namespaceuniot =
 [
     [ "lisp", "namespaceuniot_1_1lisp.html", [
-      [ "Object", "group__uniot-lisp-helper.html#ga6dfa6be7cc96ce977985d7e244201b75", null ],
-      [ "Root", "group__uniot-lisp-helper.html#gaa541392a7ed173d3fc500299991b6521", null ],
-      [ "VarObject", "group__uniot-lisp-helper.html#gaed9164c94bb3fa0d0c1ad94b5bcd454a", null ]
+      [ "Object", "namespaceuniot_1_1lisp.html#a28b64fbbb8f6eb7d080baf42c8860fb4", null ],
+      [ "Root", "namespaceuniot_1_1lisp.html#a780791a14e870dc76b48973bf68f66c9", null ],
+      [ "VarObject", "namespaceuniot_1_1lisp.html#abec369d95829543ca88a30d3de1ec2eb", null ]
     ] ],
     [ "primitive", "namespaceuniot_1_1primitive.html", "namespaceuniot_1_1primitive" ],
     [ "AppKit", "classuniot_1_1_app_kit.html", "classuniot_1_1_app_kit" ],
@@ -55,47 +55,47 @@ var namespaceuniot =
     [ "Type", "classuniot_1_1_type.html", null ],
     [ "unLisp", "classuniot_1_1un_lisp.html", "classuniot_1_1un_lisp" ],
     [ "WifiStorage", "classuniot_1_1_wifi_storage.html", "classuniot_1_1_wifi_storage" ],
-    [ "CoreCallbackEventListener", "group__event__bus__callback__listener.html#ga596807178346fe7bd2b651bd9421c872", null ],
-    [ "CoreEventBus", "group__event__bus__main.html#gad5a0f4eac43c42b31e12e9cfb0e8d267", null ],
-    [ "CoreEventEmitter", "group__event__bus__emitter.html#gae0b7025d52d125112c7017685dae20d0", null ],
-    [ "CoreEventListener", "group__event__bus__listener.html#gae565007773ef0a91cfba77f3b8f50b93", null ],
+    [ "CoreCallbackEventListener", "group__event__bus__callback__listener.html#ga5100d99afc7855aea67438ed4aa133d6", null ],
+    [ "CoreEventBus", "group__event__bus__main.html#ga08e2cb71e2657d60a6f29446f11326b3", null ],
+    [ "CoreEventEmitter", "group__event__bus__emitter.html#ga674a5caa6a923d4f68bd104e74cf1227", null ],
+    [ "CoreEventListener", "group__event__bus__listener.html#gaff2fb5d3ff7577d0dacc73b99f5d2c89", null ],
     [ "COSEAlgorithm", "namespaceuniot.html#a8ccb801d73f2253893d65f92c10003b9", null ],
     [ "COSEHeaderLabel", "namespaceuniot.html#a0f99def21ab71097e0421d98e6fab7f3", null ],
     [ "COSETag", "namespaceuniot.html#a71ddb804d8d29765ec1cf981308b8784", null ],
     [ "ETSTimer", "namespaceuniot.html#a676d9698930c780f81aedabb968cec82", null ],
-    [ "ICoreEventBusConnectionKit", "group__event__bus__connectionkit.html#gaa8952ea0b17df96ca847663fe434c382", null ],
-    [ "Pair", "group__common.html#ga7f06aa8959bf69c3fdf67402a766b1ac", null ],
-    [ "RecordPtr", "group__registers__object__register.html#gaf895a0d329e916dcc178e8459d867d82", null ],
-    [ "SharedPointer", "group__common.html#ga5349de5c3b0f3ee0d72fc97cbc58adf5", null ],
-    [ "Task", "namespaceuniot.html#a1e656038a4e71fb82a8444b6734b4505", null ],
-    [ "type_id", "group__utils__typeid.html#ga04fc2bc8b99f05842ade7ffca7901c7e", null ],
-    [ "UniquePointer", "group__common.html#ga25f3c0394677d2a7ffc575ecb39fb6e6", null ],
-    [ "COSEAlgorithm", "group__utils__cose.html#ga31ee4453bf5bee50a1f5ddcf58654613", [
-      [ "PS256", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613ac8b0b0f3998facf3ffa2aefe85c8f8ba", null ],
-      [ "PS384", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613a5c5827ce046c0d03d1bd1059ece534a1", null ],
-      [ "PS512", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613ab1f4cbbe1146e40625f6994612bb0052", null ],
-      [ "ES256", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613a78f944b48cc13bc0628140c2ff1544f4", null ],
-      [ "ES384", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613a060b91b57513583e5e1ff104ad149987", null ],
-      [ "ES512", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613a1b8b470129992e0351c424882729682c", null ],
-      [ "EdDSA", "namespaceuniot.html#ga31ee4453bf5bee50a1f5ddcf58654613a157b714c301974c264fb96e614992443", null ]
+    [ "ICoreEventBusConnectionKit", "group__event__bus__connectionkit.html#ga63288621ca52085f80e8f5130c1de634", null ],
+    [ "Pair", "group__common.html#gab98101596a2db00d4e7054b6dae0dd0a", null ],
+    [ "RecordPtr", "group__registers__object__register.html#gab6d47f16345c6f44229445d810df735a", null ],
+    [ "SharedPointer", "group__common.html#gac442a2bcb90b83a44c272578739eb0fc", null ],
+    [ "Task", "namespaceuniot.html#afa4236634d94a708161dd37203761607", null ],
+    [ "type_id", "namespaceuniot.html#a04fc2bc8b99f05842ade7ffca7901c7e", null ],
+    [ "UniquePointer", "group__common.html#ga5fefde64d3a92eb654db44f5acf720b8", null ],
+    [ "COSEAlgorithm", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613", [
+      [ "PS256", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613ac8b0b0f3998facf3ffa2aefe85c8f8ba", null ],
+      [ "PS384", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613a5c5827ce046c0d03d1bd1059ece534a1", null ],
+      [ "PS512", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613ab1f4cbbe1146e40625f6994612bb0052", null ],
+      [ "ES256", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613a78f944b48cc13bc0628140c2ff1544f4", null ],
+      [ "ES384", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613a060b91b57513583e5e1ff104ad149987", null ],
+      [ "ES512", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613a1b8b470129992e0351c424882729682c", null ],
+      [ "EdDSA", "namespaceuniot.html#a31ee4453bf5bee50a1f5ddcf58654613a157b714c301974c264fb96e614992443", null ]
     ] ],
-    [ "COSEHeaderLabel", "group__utils__cose.html#ga7506bf0d96d7c0068d0d0bfc013825ef", [
-      [ "Algorithm", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa209808b8d02367a78cb57937acedbb04", null ],
-      [ "Critical", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa97477128384fcd8586a5b61e1a717f25", null ],
-      [ "ContentType", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa7d67caa51a1a9d29cf03cc1304ad8b10", null ],
-      [ "KeyIdentifier", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efaf7652c66346a2b23c692b445f43ed222", null ],
-      [ "IV", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa438ded848af5c611bdfd3e2c13fe5fe4", null ],
-      [ "PartialIV", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efabbb3a6d0d09f590ec947c49b2b485049", null ],
-      [ "CounterSignature", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efad45ee5e75f8da0dad8582119234e2dea", null ],
-      [ "CounterSignature0", "namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa5dcd94ddf9103d568fc4047c57e5fad6", null ]
+    [ "COSEHeaderLabel", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825ef", [
+      [ "Algorithm", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efa209808b8d02367a78cb57937acedbb04", null ],
+      [ "Critical", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efa97477128384fcd8586a5b61e1a717f25", null ],
+      [ "ContentType", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efa7d67caa51a1a9d29cf03cc1304ad8b10", null ],
+      [ "KeyIdentifier", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efaf7652c66346a2b23c692b445f43ed222", null ],
+      [ "IV", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efa438ded848af5c611bdfd3e2c13fe5fe4", null ],
+      [ "PartialIV", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efabbb3a6d0d09f590ec947c49b2b485049", null ],
+      [ "CounterSignature", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efad45ee5e75f8da0dad8582119234e2dea", null ],
+      [ "CounterSignature0", "namespaceuniot.html#a7506bf0d96d7c0068d0d0bfc013825efa5dcd94ddf9103d568fc4047c57e5fad6", null ]
     ] ],
-    [ "COSETag", "group__utils__cose.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4", [
-      [ "Sign", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4aea4b829ac8d6a876c159bf88dccf9a63", null ],
-      [ "Sign1", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4afe690829a7707932279350f9040699eb", null ],
-      [ "Encrypted", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4a8e7711ebdf8bcca2ffcdff787b7d4b22", null ],
-      [ "Encrypted1", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4a4ac5bfdae8362a0c34b97b6dc4908694", null ],
-      [ "Mac", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4ac3491c2774e7ef63c9d7223d0fc81930", null ],
-      [ "Mac0", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4a03162ff249968783afeb30d01cca5f2a", null ]
+    [ "COSETag", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4", [
+      [ "Sign", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4aea4b829ac8d6a876c159bf88dccf9a63", null ],
+      [ "Sign1", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4afe690829a7707932279350f9040699eb", null ],
+      [ "Encrypted", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4a8e7711ebdf8bcca2ffcdff787b7d4b22", null ],
+      [ "Encrypted1", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4a4ac5bfdae8362a0c34b97b6dc4908694", null ],
+      [ "Mac", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4ac3491c2774e7ef63c9d7223d0fc81930", null ],
+      [ "Mac0", "namespaceuniot.html#a297cd3a2344eee9ecf2f3c83a68cc9d4a03162ff249968783afeb30d01cca5f2a", null ]
     ] ],
     [ "alignSize", "group__utils__memory__manager.html#ga699f21c789863ea95fedb73a03ebcfde", null ],
     [ "MakePair", "group__common.html#ga0a6e2d2d1d429a4f8d4647788a2c6439", null ],

@@ -5,5 +5,5 @@ var group__event__bus__callback__listener =
       [ "CallbackEventListener", "classuniot_1_1_callback_event_listener.html#a9c38aecbf13701326fd28a0370615caa", null ],
       [ "onEventReceived", "classuniot_1_1_callback_event_listener.html#ae2e35fed73f35b25d9995073c8d01c7d", null ]
     ] ],
-    [ "uniot::CoreCallbackEventListener", "group__event__bus__callback__listener.html#ga596807178346fe7bd2b651bd9421c872", null ]
+    [ "uniot::CoreCallbackEventListener", "group__event__bus__callback__listener.html#ga5100d99afc7855aea67438ed4aa133d6", null ]
 ];

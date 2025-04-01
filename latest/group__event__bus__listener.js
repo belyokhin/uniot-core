@@ -9,5 +9,5 @@ var group__event__bus__listener =
       [ "onEventReceived", "classuniot_1_1_event_listener.html#a3bc3a2ef9667e74b256256b5e80877ff", null ],
       [ "stopListeningToEvent", "classuniot_1_1_event_listener.html#a1eadf882f90427c46084d85ccca56bff", null ]
     ] ],
-    [ "uniot::CoreEventListener", "group__event__bus__listener.html#gae565007773ef0a91cfba77f3b8f50b93", null ]
+    [ "uniot::CoreEventListener", "group__event__bus__listener.html#gaff2fb5d3ff7577d0dacc73b99f5d2c89", null ]
 ];

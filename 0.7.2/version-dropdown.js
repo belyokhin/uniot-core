@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
       versions.forEach(function(version) {
         const option = document.createElement("option");
         option.value = version;
-        option.textContent = version;
+        option.textContent = version === "latest" ? "Latest" : version;
         // Set as selected if the current URL indicates this version
         const currentPath = window.location.pathname;
         if ((version === "latest" && currentPath.includes("/latest/")) ||

@@ -1,4 +1,4 @@
-<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/LispWrapper" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/LispWrapper">
+<map id="LispWrapper" name="LispWrapper">
 <area shape="rect" id="node1" href="dir_5744949ff81cd51244f4e9eb2964eaae.html" title="CBORWrapper" alt="" coords="27,125,141,151"/>
 <area shape="rect" id="node2" href="dir_7701f59d9393e5ddc689932b0e266d1c.html" title="Scheduler" alt="" coords="166,125,253,151"/>
 <area shape="rect" id="node3" href="dir_7709acc89a6a31d0650f4c2cca19d0cc.html" title="EventBus" alt="" coords="277,125,360,151"/>

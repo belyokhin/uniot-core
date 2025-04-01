@@ -1,16 +1,16 @@
-<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/EventBus/EventEntity.h" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/EventBus/EventEntity.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="83,5,265,60"/>
-<area shape="rect" id="Node000002" href="$_iterable_queue_8h.html" title=" " alt="" coords="5,108,132,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,62,95,101,92,97,140,58"/>
-<area shape="rect" id="Node000006" href="$_logger_8h.html" title=" " alt="" coords="141,181,218,207"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,60,181,168,176,168,172,60"/>
-<area shape="rect" id="Node000007" href="$_type_id_8h.html" title=" " alt="" coords="212,108,288,133"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="199,58,233,96,229,99,195,62"/>
-<area shape="rect" id="Node000003" href="$_clear_queue_8h.html" title=" " alt="" coords="5,181,116,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,134,66,168,61,168,65,133"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="132,255,216,280"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,204,146,245,143,250,77,209"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="17,255,104,280"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="63,207,63,241,58,241,58,207"/>
-<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="181,207,179,241,173,241,176,207"/>
+<map id="EventEntity.h" name="EventEntity.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,227,31"/>
+<area shape="rect" id="Node000002" href="$_iterable_queue_8h.html" title=" " alt="" coords="5,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,33,98,73,96,69,156,28"/>
+<area shape="rect" id="Node000006" href="$_logger_8h.html" title=" " alt="" coords="141,152,218,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,31,181,138,176,138,172,31"/>
+<area shape="rect" id="Node000007" href="$_type_id_8h.html" title=" " alt="" coords="212,79,288,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="188,29,229,67,226,71,184,33"/>
+<area shape="rect" id="Node000003" href="$_clear_queue_8h.html" title=" " alt="" coords="5,152,116,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,105,66,139,61,138,65,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="132,225,216,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,175,146,216,143,220,77,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="17,225,104,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="63,178,63,212,58,212,58,178"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="181,178,179,212,173,212,176,177"/>
 </map>

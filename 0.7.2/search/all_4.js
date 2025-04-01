@@ -15,12 +15,12 @@ var searchData=
   ['defaultprimitives_2eh_12',['DefaultPrimitives.h',['../_default_primitives_8h.html',1,'']]],
   ['describe_13',['describe',['../classuniot_1_1_primitive_expeditor.html#a21b3cddf0c88e7c0512021fc927ffc6a',1,'uniot::PrimitiveExpeditor']]],
   ['detach_14',['detach',['../classuniot_1_1_e_s_p32_task.html#a36275f417f27dae3f101ffd1d4802295',1,'uniot::ESP32Task::detach()'],['../classuniot_1_1_e_s_p8266_task.html#a70f43230f2368de458b711107a811886',1,'uniot::ESP8266Task::detach()']]],
-  ['device_15',['Device',['../group__callback__mqtt__device.html',1,'Callback Device'],['../group__app-kit-lisp-device.html',1,'Lisp Device'],['../group__mqtt__device.html',1,'MQTT Device']]],
+  ['device_15',['device',['../group__callback__mqtt__device.html',1,'Callback Device'],['../group__app-kit-lisp-device.html',1,'Lisp Device'],['../group__mqtt__device.html',1,'MQTT Device']]],
   ['device_20identity_16',['Device Identity',['../group__device-identity.html',1,'']]],
   ['dirty_17',['dirty',['../classuniot_1_1_c_b_o_r_object.html#a058b73d70f714fe9b6f9b338ce6a4f36',1,'uniot::CBORObject']]],
   ['disconnected_18',['DISCONNECTED',['../classuniot_1_1_network_scheduler.html#a5aba9ac0f3895d264c70b7effba3cfd4a7a7b4620b88bf9a98762b570326e977e',1,'uniot::NetworkScheduler']]],
   ['dns_5fport_19',['DNS_PORT',['../_config_captive_portal_8h.html#ab1d3f5c08428c20521a92ca2fa20f46c',1,'ConfigCaptivePortal.h']]],
   ['domain_5fname_20',['DOMAIN_NAME',['../_config_captive_portal_8h.html#a91dddf08017b0adeef6f66ab9da730ee',1,'ConfigCaptivePortal.h']]],
-  ['dread_21',['dread',['../group__uniot-lisp-primitives-default.html#ga3cedd5dd25af0ab24c119a323a9b51c8',1,'uniot::primitive::name::dread'],['../group__app-kit-primitives.html#gac632fd2c631a593fd02f44ace540b6b0',1,'uniot::primitive::dread()']]],
+  ['dread_21',['dread',['../group__app-kit-primitives.html#gac632fd2c631a593fd02f44ace540b6b0',1,'uniot::primitive::dread()'],['../group__uniot-lisp-primitives-default.html#ga3cedd5dd25af0ab24c119a323a9b51c8',1,'uniot::primitive::name::dread']]],
   ['dwrite_22',['dwrite',['../group__uniot-lisp-primitives-default.html#gaa2d24d57e3e260dad146c4d5e3e40613',1,'uniot::primitive::name::dwrite'],['../group__app-kit-primitives.html#ga1cde1de8a8517ad0b9a74c52008457a7',1,'uniot::primitive::dwrite()']]]
 ];

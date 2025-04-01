@@ -68,11 +68,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_app_kit_8h.html",
-"classuniot_1_1_button.html#a5ae0a48ac94bb321b1e56f09b3b6309a",
-"classuniot_1_1_lisp_device.html",
-"classuniot_1_1un_lisp.html#a8faac58293acb02f8df8aa1cfd2ae6f2",
-"namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4aea4b829ac8d6a876c159bf88dccf9a63"
+"classuniot_1_1_app_kit.html#af2000b655bfa62af5f3f605fe92d8997",
+"classuniot_1_1_gpio_register.html#a770067741db6282085ac1a54f4995a08",
+"classuniot_1_1_storage.html#adf0ad4850cd15cd05a763ce23e6aa0b0",
+"group__utils__memory__manager.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

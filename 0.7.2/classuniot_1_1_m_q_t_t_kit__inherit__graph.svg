@@ -57,10 +57,10 @@
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="classuniot_1_1_event_emitter.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="293,-151 182,-151 182,-110 293,-110 293,-151"/>
-<text text-anchor="start" x="190" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::EventEmitter</text>
-<text text-anchor="start" x="190" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; unsigned int, int,</text>
-<text text-anchor="middle" x="237.5" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00"> Bytes &gt;</text>
+<polygon fill="white" stroke="#666666" points="294,-151 181,-151 181,-110 294,-110 294,-151"/>
+<text text-anchor="start" x="189" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">uniot::EventEmitter</text>
+<text text-anchor="start" x="189" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T_topic, T_msg, T</text>
+<text text-anchor="middle" x="237.5" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">_data &gt;</text>
 </a>
 </g>
 </g>

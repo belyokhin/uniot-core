@@ -1,4 +1,4 @@
-<map id="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Date" name="/home/runner/work/uniot&#45;core/uniot&#45;core/lib/Core/Date">
+<map id="Date" name="Date">
 <area shape="rect" id="node1" href="dir_53788d271d5e379cf5a6be5d6c342eea.html" title="Storage" alt="" coords="27,125,99,151"/>
 <area shape="rect" id="node2" href="dir_7701f59d9393e5ddc689932b0e266d1c.html" title="Scheduler" alt="" coords="123,125,210,151"/>
 <area shape="rect" id="node3" href="dir_7709acc89a6a31d0650f4c2cca19d0cc.html" title="EventBus" alt="" coords="235,125,317,151"/>

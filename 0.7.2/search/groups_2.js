@@ -8,7 +8,7 @@ var searchData=
   ['channels_5',['Data Channels',['../group__data__channels.html',1,'']]],
   ['clearqueue_6',['ClearQueue',['../group__utils__clearqueue.html',1,'']]],
   ['common_7',['Common',['../group__common.html',1,'']]],
-  ['communication_8',['Communication',['../group__event__bus.html',1,'Internal Communication'],['../group__mqtt__communication.html',1,'MQTT Communication']]],
+  ['communication_8',['communication',['../group__event__bus.html',1,'Internal Communication'],['../group__mqtt__communication.html',1,'MQTT Communication']]],
   ['component_9',['Main Component',['../group__date-time-main.html',1,'']]],
   ['concise_20binary_20object_20representation_10',['CBOR (Concise Binary Object Representation)',['../group__utils__cbor__wrapper.html',1,'']]],
   ['connection_20kit_11',['Connection Kit',['../group__event__bus__connectionkit.html',1,'']]],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['_7earray_0',['~Array',['../classuniot_1_1_c_b_o_r_object_1_1_array.html#a3c33aa51e99d73dffd803b2f75bfc80e',1,'uniot::CBORObject::Array::~Array()'],['../classuniot_1_1_array.html#ad7dfc6963143f7049645d58997b64841',1,'uniot::Array::~Array()']]],
+  ['_7earray_0',['~array',['../classuniot_1_1_array.html#ad7dfc6963143f7049645d58997b64841',1,'uniot::Array::~Array()'],['../classuniot_1_1_c_b_o_r_object_1_1_array.html#a3c33aa51e99d73dffd803b2f75bfc80e',1,'uniot::CBORObject::Array::~Array()']]],
   ['_7ebytes_1',['~Bytes',['../class_bytes.html#aae86e127766217974c90b607eddc3358',1,'Bytes']]],
   ['_7ecborobject_2',['~CBORObject',['../classuniot_1_1_c_b_o_r_object.html#abad76f033ec93ae0f0fcb9bdc03ea728',1,'uniot::CBORObject']]],
   ['_7ecborstorage_3',['~CBORStorage',['../classuniot_1_1_c_b_o_r_storage.html#a4f231bef47c90737b8e608d501f86309',1,'uniot::CBORStorage']]],

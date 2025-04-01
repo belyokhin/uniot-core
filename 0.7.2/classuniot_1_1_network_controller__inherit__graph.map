@@ -4,7 +4,7 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,311,290,355,288,360,162,316"/>
 <area shape="rect" id="Node000003" href="$classuniot_1_1_event_listener.html" title=" " alt="" coords="251,284,393,309"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,323,325,357,319,357,319,323"/>
-<area shape="rect" id="Node000004" href="$classuniot_1_1_event_emitter.html" title=" " alt="" coords="248,181,396,236"/>
+<area shape="rect" id="Node000004" href="$classuniot_1_1_event_emitter.html" title=" " alt="" coords="247,181,397,236"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="325,250,325,284,319,284,319,250"/>
 <area shape="rect" id="Node000005" href="$classuniot_1_1_event_entity.html" title="Entity that can connect to and interact with EventBus instances." alt="" coords="247,79,397,133"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,147,325,181,319,181,319,147"/>
