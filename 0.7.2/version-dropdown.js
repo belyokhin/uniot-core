@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
   select.id = "version-dropdown";
 
   // Fetch versions.json from the root of your site
-  fetch(`${window.location.origin}/uniot-core/versions.json`)
+  fetch(`/uniot-core/versions.json`)
     .then(function(response) {
       if (!response.ok) {
         throw new Error("Failed to fetch versions.json");
