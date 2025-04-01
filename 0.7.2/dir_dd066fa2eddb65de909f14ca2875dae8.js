@@ -4,7 +4,7 @@ var dir_dd066fa2eddb65de909f14ca2875dae8 =
     [ "Bytes.h", "_bytes_8h.html", null ],
     [ "ClearQueue.h", "_clear_queue_8h.html", "_clear_queue_8h" ],
     [ "GlobalBufferMemoryManager.cpp", "_global_buffer_memory_manager_8cpp.html", "_global_buffer_memory_manager_8cpp" ],
-    [ "GlobalBufferMemoryManager.h", "_global_buffer_memory_manager_8h.html", "_global_buffer_memory_manager_8h" ],
+    [ "GlobalBufferMemoryManager.h", "_global_buffer_memory_manager_8h.html", null ],
     [ "IterableQueue.h", "_iterable_queue_8h.html", null ],
     [ "LimitedQueue.h", "_limited_queue_8h.html", null ],
     [ "Map.h", "_map_8h.html", null ],

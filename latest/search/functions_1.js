@@ -2,7 +2,7 @@ var searchData=
 [
   ['adddevice_0',['addDevice',['../classuniot_1_1_m_q_t_t_kit.html#aa97e2a3c3a8a2b465dda7d08d7d4a92d',1,'uniot::MQTTKit']]],
   ['addtoregister_1',['addToRegister',['../classuniot_1_1_register.html#a1af4dfc8d2631fc19ba42406d009f725',1,'uniot::Register']]],
-  ['alignsize_2',['alignSize',['../namespaceuniot.html#a699f21c789863ea95fedb73a03ebcfde',1,'uniot']]],
+  ['alignsize_2',['alignSize',['../group__utils__memory__manager.html#ga699f21c789863ea95fedb73a03ebcfde',1,'uniot']]],
   ['allocate_3',['allocate',['../classuniot_1_1_global_buffer_memory_manager.html#a16f5a75c8cc18f68fed3238f1f1fd5c4',1,'uniot::GlobalBufferMemoryManager']]],
   ['append_4',['append',['../classuniot_1_1_c_b_o_r_object_1_1_array.html#abc98d101e96d3105c920bde8024c3b7d',1,'uniot::CBORObject::Array::append(int value)'],['../classuniot_1_1_c_b_o_r_object_1_1_array.html#a7d07b84f4e1a3e7e2a867dbc200f6164',1,'uniot::CBORObject::Array::append(const char *value)'],['../classuniot_1_1_c_b_o_r_object_1_1_array.html#aec8353835d9a96d83639c0b7a6fbdc16',1,'uniot::CBORObject::Array::append(size_t size, const T *value)']]],
   ['appendarray_5',['appendArray',['../classuniot_1_1_c_b_o_r_object_1_1_array.html#ad7a9cabbb397d6471615d33fd106c970',1,'uniot::CBORObject::Array']]],

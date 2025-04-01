@@ -97,7 +97,7 @@ var namespaceuniot =
       [ "Mac", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4ac3491c2774e7ef63c9d7223d0fc81930", null ],
       [ "Mac0", "namespaceuniot.html#ga297cd3a2344eee9ecf2f3c83a68cc9d4a03162ff249968783afeb30d01cca5f2a", null ]
     ] ],
-    [ "alignSize", "namespaceuniot.html#a699f21c789863ea95fedb73a03ebcfde", null ],
+    [ "alignSize", "group__utils__memory__manager.html#ga699f21c789863ea95fedb73a03ebcfde", null ],
     [ "MakePair", "group__common.html#ga0a6e2d2d1d429a4f8d4647788a2c6439", null ],
     [ "MakeShared", "group__common.html#gaecb3cee18105dc9fa363076228b83dec", null ],
     [ "MakeUnique", "group__common.html#ga80a9e9438f4242b89580b9fd5cf2c3a8", null ],

@@ -7,6 +7,7 @@ var group__utils =
     [ "Array", "group__utils__array.html", "group__utils__array" ],
     [ "Bytes", "group__utils__bytes.html", "group__utils__bytes" ],
     [ "ClearQueue", "group__utils__clearqueue.html", "group__utils__clearqueue" ],
+    [ "Memory Manager", "group__utils__memory__manager.html", "group__utils__memory__manager" ],
     [ "IterableQueue", "group__utils__iterablequeue.html", "group__utils__iterablequeue" ],
     [ "LimitedQueue", "group__utils__limitedqueue.html", "group__utils__limitedqueue" ],
     [ "Map", "group__utils__map.html", "group__utils__map" ],

@@ -180,12 +180,9 @@ $(function(){initNavTree('classuniot_1_1_global_buffer_memory_manager.html','');
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="classuniot_1_1_global_buffer_memory_manager-members.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">uniot::GlobalBufferMemoryManager Class Reference</div></div>
+  <div class="headertitle"><div class="title">uniot::GlobalBufferMemoryManager Class Reference<div class="ingroups"><a class="el" href="group__utils.html">Utilities</a> &raquo; <a class="el" href="group__utils__memory__manager.html">Memory Manager</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>Memory manager for a global static buffer with dynamic allocation capabilities.  
- <a href="#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="_global_buffer_memory_manager_8h_source.html">GlobalBufferMemoryManager.h</a>&gt;</code></p>
 <table class="memberdecls">
@@ -210,10 +207,7 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memdesc:a5310ea43672d7119642445f14602e85e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the size of the largest available free block.  <br /></td></tr>
 <tr class="separator:a5310ea43672d7119642445f14602e85e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Memory manager for a global static buffer with dynamic allocation capabilities. </p>
-<p>This class implements a simple memory manager that operates on a static buffer. It provides dynamic memory allocation within the buffer, using a free-list approach to track available memory blocks. The memory manager supports allocation, deallocation, and reallocation operations, making it useful for environments with limited heap availability or when more controlled memory management is required. </p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
 <a id="a16f5a75c8cc18f68fed3238f1f1fd5c4" name="a16f5a75c8cc18f68fed3238f1f1fd5c4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a16f5a75c8cc18f68fed3238f1f1fd5c4">&#9670;&#160;</a></span>allocate()</h2>
 
@@ -244,7 +238,13 @@ Static Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>void* Pointer to allocated memory, or nullptr if allocation fails </dd></dl>
+<dl class="retval"><dt>Return values</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">void*</td><td>Pointer to the allocated memory block </td></tr>
+    <tr><td class="paramname">nullptr</td><td>If allocation fails </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -306,7 +306,12 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Get the size of the largest available free block. </p>
-<dl class="section return"><dt>Returns</dt><dd>size_t Size in bytes of the largest contiguous free block </dd></dl>
+<dl class="retval"><dt>Return values</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">size_t</td><td>Size in bytes of the largest contiguous free block </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -334,7 +339,12 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Get the total free memory available in the buffer. </p>
-<dl class="section return"><dt>Returns</dt><dd>size_t Total bytes available across all free blocks </dd></dl>
+<dl class="retval"><dt>Return values</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">size_t</td><td>Total bytes available across all free blocks </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -402,7 +412,13 @@ Static Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>void* Pointer to resized memory block, or nullptr if reallocation fails </dd></dl>
+<dl class="retval"><dt>Return values</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">void*</td><td>Pointer to the resized memory block </td></tr>
+    <tr><td class="paramname">nullptr</td><td>If reallocation fails </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

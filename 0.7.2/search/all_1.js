@@ -8,7 +8,7 @@ var searchData=
   ['algorithm_5',['Algorithm',['../namespaceuniot.html#ga7506bf0d96d7c0068d0d0bfc013825efa209808b8d02367a78cb57937acedbb04',1,'uniot']]],
   ['alias_5fexplicit_5ffunction_6',['ALIAS_EXPLICIT_FUNCTION',['../group__common.html#gad8567841ceca8ed2a2ad44fcf7edb0c4',1,'Common.h']]],
   ['alias_5fimplicit_5ffunction_7',['ALIAS_IMPLICIT_FUNCTION',['../group__common.html#ga33c7fd2f50d3ec327a9fbb5e88fde3fa',1,'Common.h']]],
-  ['alignsize_8',['alignSize',['../namespaceuniot.html#a699f21c789863ea95fedb73a03ebcfde',1,'uniot']]],
+  ['alignsize_8',['alignSize',['../group__utils__memory__manager.html#ga699f21c789863ea95fedb73a03ebcfde',1,'uniot']]],
   ['allocate_9',['allocate',['../classuniot_1_1_global_buffer_memory_manager.html#a16f5a75c8cc18f68fed3238f1f1fd5c4',1,'uniot::GlobalBufferMemoryManager']]],
   ['and_20encryption_10',['COSE (CBOR Object Signing and Encryption)',['../group__utils__cose.html',1,'']]],
   ['and_20time_20management_11',['Date and Time Management',['../group__date-time.html',1,'']]],
