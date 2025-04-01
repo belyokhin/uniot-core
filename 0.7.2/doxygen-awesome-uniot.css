@@ -1,11 +1,20 @@
 html {
-    --primary-color: #4c68fc;
-    --primary-dark-color: #4c68fc;
-    --primary-light-color: #4c68fc;
+    --primary-color: #4C68FC;
+    --primary-dark-color: #3D53CA;
+    --primary-light-color: #7086FD;
 }
 
 html.dark-mode {
     --page-background-color: rgb(29, 29, 29);
+    --primary-color: #4C68FC;
+    --primary-dark-color: #3D53CA;
+    --primary-light-color: #7086FD;
+}
+
+html.light-mode {
+    --primary-color: #4C68FC;
+    --primary-dark-color: #3D53CA;
+    --primary-light-color: #7086FD;
 }
 
 #titlearea {
